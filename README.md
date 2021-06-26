@@ -1,2 +1,2 @@
-# UFO-s
+# UFO
 UFO sightings with javaScript
