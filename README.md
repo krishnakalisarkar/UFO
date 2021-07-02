@@ -34,7 +34,7 @@ The website was created successfully with a dynamic table along with multiple fi
     * Links to the full article can also be added to each individual row, so if an user whats to learn more about a sighting, they can click on that link and get more information from the original article👽👽
 
 
-![logo](static/images/logo.png)
+                                                               ![logo](static/images/logo.png)
                                                             
                                                             
                                                            
