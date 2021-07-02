@@ -11,7 +11,7 @@ The purpose of this project is to walk down the JavaScript lane and explore into
 
 ### Building the HTML page with a Data table.
 
-![HTML page]()
+![HTML page](static/images/cover.png)
 
 This project triggered off by creating a HTML page by using javaScript and the webpage contains a paragraph on UFO sightings: Facts or Fancy. The webpage also contains a dynamic table , which is created from javascript data(data.js) on UFO sightings details in USA👽
 
