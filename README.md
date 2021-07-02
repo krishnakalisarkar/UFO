@@ -32,5 +32,10 @@ The website was created successfully with a dynamic table along with multiple fi
     * One image thumbnail was added in the Jumbotron and positioned at the center.  
     * Another image of a saucer was added in the fluid container of header 3 (h3).By incorporating a fluid container in h3 makes the picture more dynamic. As the viewer's device changes, the picture adjusts itself in the fluid container.  
     * Links to the full article can also be added to each individual row, so if an user whats to learn more about a sighting, they can click on that link and get more information from the original article👽👽
+
+
+
+                                                                        
     
 
+                                                                                                                               ![filters](static/images/logo.png)
