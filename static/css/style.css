@@ -6,3 +6,19 @@ body {
     background-size: 100% 100%;
     text-align: center;
   }
+/* This CSS styles the ufo icon in the navbar */
+.nav-ufo {
+    position: absolute;
+    left: 155px;
+    width: 48px;
+    bottom: 5px;
+    color: #ebdaa3;
+  }
+.img-saucer {
+  width: 80%;
+  bottom: 5px;
+}
+
+
+
+
