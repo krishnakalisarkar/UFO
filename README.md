@@ -15,7 +15,7 @@ The purpose of this project is to walk down the JavaScript lane and explore into
 
 This project triggered off by creating a HTML page by using javaScript and the webpage contains a paragraph on UFO sightings: Facts or Fancy. The webpage also contains a dynamic table , which is created from javascript data(data.js) on UFO sightings details in USA👽
 
-![filters]()
+![filters](static/images/filters.png)
 
 The dynamic table is further polished to provide a more in-depth analysis of UFO sightings by allowing curious users to filter for multiple criteria at the same time.There are 5 different filters to choose from; the Date, City, State, Country & Shape of the saucer.The example above shows sightings in 4 different Texas cities in 2010, their duration, shape and comments on the sightings. The filters are created in such a manner that multiple filters can also be entered at the same time to obtain specific informations👽
 
